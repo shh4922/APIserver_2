@@ -1,0 +1,12 @@
+{
+    "item_list": [
+        {
+            "item_id": 0,
+            "item_name": "김치"
+        },
+        {
+            "item_id": 1,
+            "item_name": "쇠고기"
+        }
+    ]
+}
